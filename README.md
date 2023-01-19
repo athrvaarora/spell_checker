@@ -19,3 +19,8 @@ spell.c
 
 It is the function library which contains functions for calculating and implementing editdistance and using it for finding the correct match or closest match of the word in the input dictonary
 
+spell.h
+
+Header file for function Library
+
+Added some test cases along with it
